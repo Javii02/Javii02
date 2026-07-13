@@ -75,10 +75,10 @@ public class Javier {
 ## 📫 Contacto
 
 <p align="center">
-  <a href="TU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/javier-rubio-gigante">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:javii.central.7@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="TU_PORTFOLIO">
