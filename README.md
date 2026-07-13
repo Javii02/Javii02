@@ -1,16 +1,55 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Javier Rubio
 
-<!--
-**Javii02/Javii02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack Junior con formación en Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes.
 
-Here are some ideas to get you started:
+Me interesa especialmente el desarrollo de aplicaciones web modernas utilizando tecnologías tanto de frontend como de backend. Actualmente continúo ampliando mis conocimientos y desarrollando proyectos para seguir creciendo profesionalmente dentro del sector tecnológico.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías
+
+### Backend
+
+* Java
+* Spring Boot
+* Thymeleaf
+* SQL
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* Vue 3
+* React
+* SCSS
+
+### Bases de datos
+
+* MySQL
+* SQL Server
+
+### Herramientas
+
+* Git
+* GitHub
+* Eclipse
+* Visual Studio Code
+* Figma
+* Excalidraw
+
+## 🎓 Formación
+
+* Grado Superior en Desarrollo de Aplicaciones Web
+* Grado Medio en Sistemas Microinformáticos y Redes
+* Formación Profesional Básica en Informática y Comunicaciones
+
+## 🌱 Actualmente
+
+* Profundizando en Java y Spring Boot
+* Mejorando conocimientos de desarrollo Full Stack
+* Construyendo nuevos proyectos para mi portfolio
+
+## 📫 Contacto
+
+* LinkedIn: [Tu LinkedIn]
+* Portfolio: [Tu Portfolio]
+* GitHub: github.com/Javii02
