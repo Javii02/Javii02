@@ -1,55 +1,95 @@
-# ¡Hola! 👋 Soy Javier Rubio
+<div align="center">
 
-💻 Desarrollador Full Stack Junior con formación en Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes.
+# 👋 ¡Hola! Soy Javier Rubio
 
-Me interesa especialmente el desarrollo de aplicaciones web modernas utilizando tecnologías tanto de frontend como de backend. Actualmente continúo ampliando mis conocimientos y desarrollando proyectos para seguir creciendo profesionalmente dentro del sector tecnológico.
+### 💻 Full Stack Developer Junior
 
-## 🚀 Tecnologías
+Apasionado por el desarrollo de aplicaciones web y la tecnología en general.
+
+Actualmente sigo ampliando mis conocimientos y construyendo proyectos para crecer profesionalmente como desarrollador Full Stack.
+
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web.
+- 🖥️ Formación en sistemas, redes y desarrollo de software.
+- 🌱 Aprendiendo continuamente nuevas tecnologías y buenas prácticas.
+- ⚡ Interesado en el desarrollo Full Stack y aplicaciones empresariales.
+
+---
+
+## 🛠️ Tecnologías
 
 ### Backend
 
-* Java
-* Spring Boot
-* Thymeleaf
-* SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
 
 ### Frontend
 
-* HTML
-* CSS
-* JavaScript
-* Vue 3
-* React
-* SCSS
-
-### Bases de datos
-
-* MySQL
-* SQL Server
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react" />
+</p>
 
 ### Herramientas
 
-* Git
-* GitHub
-* Eclipse
-* Visual Studio Code
-* Figma
-* Excalidraw
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma" />
+</p>
 
-## 🎓 Formación
-
-* Grado Superior en Desarrollo de Aplicaciones Web
-* Grado Medio en Sistemas Microinformáticos y Redes
-* Formación Profesional Básica en Informática y Comunicaciones
+---
 
 ## 🌱 Actualmente
 
-* Profundizando en Java y Spring Boot
-* Mejorando conocimientos de desarrollo Full Stack
-* Construyendo nuevos proyectos para mi portfolio
+```java
+public class Javier {
+    
+    String role = "Full Stack Developer Junior";
+    
+    String[] learning = {
+        "Spring Boot",
+        "Arquitectura de aplicaciones",
+        "Buenas prácticas de desarrollo",
+        "Desarrollo Full Stack"
+    };
+    
+    String currentGoal = "Construir proyectos cada vez más completos";
+}
+```
+
+---
+
+## 🎯 Objetivos para 2026
+
+- 🚀 Conseguir mi primera experiencia sólida como desarrollador Full Stack.
+- ☕ Profundizar en Java y Spring Boot.
+- 🌐 Completar y mejorar mi portfolio personal.
+- 📚 Seguir aprendiendo nuevas tecnologías y herramientas.
+
+---
 
 ## 📫 Contacto
 
-* LinkedIn: [Tu LinkedIn]
-* Portfolio: [Tu Portfolio]
-* GitHub: github.com/Javii02
+<p align="center">
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:TU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="TU_PORTFOLIO">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Siempre aprendiendo, siempre construyendo."
+
+</div>
