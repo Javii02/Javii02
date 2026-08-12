@@ -2,11 +2,11 @@
 
 # 👋 ¡Hola! Soy Javier Rubio
 
-### 💻 Full Stack Developer Junior
+### 💻 Full Stack Developer Junior & Security Enthusiast
 
-Apasionado por el desarrollo de aplicaciones web y la tecnología en general.
+Apasionado por el desarrollo web robusto, la arquitectura de sistemas y la ciberseguridad.
 
-Actualmente sigo ampliando mis conocimientos y construyendo proyectos para crecer profesionalmente como desarrollador Full Stack.
+Especializado en construir aplicaciones web modernas con **Vue 3, TypeScript, Java y Spring Boot**, respaldadas por una base sólida en infraestructura y redes.
 
 </div>
 
@@ -14,31 +14,29 @@ Actualmente sigo ampliando mis conocimientos y construyendo proyectos para crece
 
 ## 🚀 Sobre mí
 
-- 🎓 Técnico Superior en Desarrollo de Aplicaciones Web.
-- 🖥️ Formación en sistemas, redes y desarrollo de software.
-- 🌱 Aprendiendo continuamente nuevas tecnologías y buenas prácticas.
-- ⚡ Interesado en el desarrollo Full Stack y aplicaciones empresariales.
+- 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** & **SMR**.
+- 🛡️ Especialización en **Ciberseguridad en Entornos de las Tecnologías de la Información (IFCT0109)**.
+- 💼 Experiencia previa desarrollando interfaces y CRM empresariales con **Vue 3 y SCSS** en entorno real.
+- 🛠️ Enfoque integral: Desarrollo de software seguro + Administración de redes y sistemas.
+- ⚡ Buscando siempre escribir código limpio, mantenible y aplicar buenas prácticas de ingeniería.
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías & Herramientas
 
-### Backend
-
+### Frontend & UI
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,figma" />
 </p>
 
-### Frontend
-
+### Backend & Bases de Datos
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongo" />
 </p>
 
-### Herramientas
-
+### Ciberseguridad, Redes & Herramientas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma" />
+  <img src="https://skillicons.dev/icons?i=kali,bash,git,github,vscode,eclipse,linux" />
 </p>
 
 ---
@@ -47,49 +45,15 @@ Actualmente sigo ampliando mis conocimientos y construyendo proyectos para crece
 
 ```java
 public class Javier {
-    
+
     String role = "Full Stack Developer Junior";
     
-    String[] learning = {
-        "Spring Boot",
-        "Arquitectura de aplicaciones",
-        "Buenas prácticas de desarrollo",
-        "Desarrollo Full Stack"
+    String[] coreTechs = {
+        "Vue 3 / TypeScript",
+        "Java / Spring Boot",
+        "Ciberseguridad & SIEM (Wazuh, Suricata)",
+        "Arquitectura Web & SCSS"
     };
     
-    String currentGoal = "Construir proyectos cada vez más completos";
+    String currentGoal = "Aportar valor en proyectos web complejos y seguir creciendo técnicamente";
 }
-```
-
----
-
-## 🎯 Objetivos para 2026
-
-- 🚀 Conseguir mi primera experiencia sólida como desarrollador Full Stack.
-- ☕ Profundizar en Java y Spring Boot.
-- 🌐 Completar y mejorar mi portfolio personal.
-- 📚 Seguir aprendiendo nuevas tecnologías y herramientas.
-
----
-
-## 📫 Contacto
-
-<p align="center" target="_blank">
-  <a href="https://www.linkedin.com/in/javier-rubio-gigante">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:javii.central.7@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://jrubio-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-### 💡 "Siempre aprendiendo, siempre construyendo."
-
-</div>
