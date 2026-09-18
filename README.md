@@ -12,9 +12,6 @@ Actualmente continúo ampliando mis conocimientos en **Java, Spring Boot, arquit
   <a href="https://jrubio-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/Javii02" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </p>
 
 </div>
@@ -51,10 +48,10 @@ Mi objetivo es seguir creciendo como desarrollador **Full Stack**, combinando de
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql" alt="Backend technologies">
+  <img src="https://skillicons.dev/icons?i=java,spring,mongo,mysql" alt="Backend technologies">
 </p>
 
-**Java · Spring Boot · Thymeleaf · SQL · MySQL**
+**Java · Spring Boot · Mongo · SQL**
 
 > Java y Spring Boot forman parte principalmente de mi formación y proyectos personales/académicos.
 
@@ -168,6 +165,6 @@ Formación en:
 
 Si quieres conocer más sobre mi trabajo y proyectos:
 
-**🌐 [Portfolio](https://jrubio-portfolio.vercel.app/)** · **💻 [GitHub](https://github.com/Javii02)**
+**🌐 [Portfolio](https://jrubio-portfolio.vercel.app/)**
 
 </div>
