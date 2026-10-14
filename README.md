@@ -108,19 +108,6 @@ Mi experiencia en este ámbito procede principalmente de **formación, laborator
 
 ---
 
-## 🌱 Actualmente aprendiendo
-
-Estoy centrando mi aprendizaje principalmente en:
-
-* ☕ **Java & Spring Boot**
-* 🏗️ **Arquitectura y diseño de aplicaciones web**
-* 🔐 **Seguridad aplicada al desarrollo**
-* 🤖 **Integración de IA en aplicaciones**
-
-También continúo reforzando mis conocimientos de **Linux y redes** como complemento a mi perfil de desarrollo.
-
----
-
 ## 🎓 Formación
 
 ### Desarrollo de Aplicaciones Web — DAW
