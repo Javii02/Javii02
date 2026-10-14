@@ -2,9 +2,9 @@
 
 # 👋 Hola, soy Javier Rubio
 
-### 💻 Junior Full Stack Developer · Java · Spring Boot · Vue 3 · TypeScript
+### 💻 Full Stack Developer · Java · Spring Boot · Vue 3 · TypeScript
 
-Desarrollador Full Stack Junior con especial interés en el desarrollo **backend con Java y Spring Boot**, y experiencia profesional trabajando con **Vue 3, TypeScript y SCSS** en aplicaciones empresariales.
+Desarrollador Full Stack con especial interés en el desarrollo **backend con Java y Spring Boot**, y experiencia profesional trabajando con **Vue 3, TypeScript y SCSS** en aplicaciones empresariales.
 
 Actualmente continúo profundizando en **arquitectura de aplicaciones web, desarrollo seguro, Linux y redes**, con el objetivo de construir aplicaciones robustas, mantenibles y seguras.
 
@@ -23,7 +23,7 @@ Actualmente continúo profundizando en **arquitectura de aplicaciones web, desar
 
 ## 👨‍💻 Sobre mí
 
-* 💻 **Junior Full Stack Developer** con especial interés en Java y Spring Boot.
+* 💻 **Full Stack Developer** con especial interés en Java y Spring Boot.
 * ☕ Conocimientos de **Java, Spring Boot y Thymeleaf** desarrollados mediante formación y proyectos.
 * 🚀 Experiencia profesional con **Vue 3, TypeScript y SCSS** en un CRM empresarial.
 * 🏗️ Interés en **arquitectura, diseño y mantenibilidad de aplicaciones web**.
@@ -31,8 +31,6 @@ Actualmente continúo profundizando en **arquitectura de aplicaciones web, desar
 * 🖥️ Técnico en **Sistemas Microinformáticos y Redes (SMR)**.
 * 🛡️ Certificado de Profesionalidad **IFCT0109 — Seguridad Informática**, nivel 3.
 * 🐧 Conocimientos de **Linux, redes, hardening y seguridad de sistemas**.
-
-Mi objetivo es desarrollarme profesionalmente como **desarrollador Java / Spring Boot y evolucionar hacia un perfil Full Stack**, combinando backend y frontend y aplicando buenas prácticas de diseño, mantenibilidad y seguridad.
 
 ---
 
