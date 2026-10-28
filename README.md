@@ -26,8 +26,6 @@
 * 🛡️ Certificado de Profesionalidad **IFCT0109 — Seguridad Informática**, nivel 3.
 * 🐧 Conocimientos de **Linux, redes, hardening y seguridad de sistemas**.
 
----
-
 ## 💼 Experiencia profesional
 
 ### Desarrollador Web — Ecode Group
@@ -44,8 +42,6 @@ Entre las tareas realizadas se encuentran el desarrollo de interfaces responsive
 
 Esta experiencia me permitió trabajar en un entorno profesional de desarrollo web y familiarizarme con el desarrollo y mantenimiento de aplicaciones empresariales.
 
----
-
 ## 🛠️ Stack tecnológico
 
 ### Backend
@@ -58,8 +54,6 @@ Esta experiencia me permitió trabajar en un entorno profesional de desarrollo w
 
 > Java, Spring Boot y Thymeleaf forman parte principalmente de mi formación y proyectos personales/académicos.
 
----
-
 ### Frontend
 
 <p>
@@ -68,8 +62,6 @@ Esta experiencia me permitió trabajar en un entorno profesional de desarrollo w
 
 `HTML` · `CSS` · `SCSS` · `JavaScript` · `TypeScript` · `Vue 3`
 
----
-
 ### Sistemas & herramientas
 
 <p>
@@ -77,8 +69,6 @@ Esta experiencia me permitió trabajar en un entorno profesional de desarrollo w
 </p>
 
 `Linux` · `Bash` · `Git` · `GitHub` · `VS Code` · `Docker`
-
----
 
 ## 🔐 Ciberseguridad
 
@@ -100,8 +90,6 @@ Mi formación en ciberseguridad complementa mi perfil como desarrollador y me pr
 
 Mi experiencia en este ámbito procede principalmente de **formación, laboratorios y práctica personal**. Actualmente continúo ampliando mis conocimientos en seguridad ofensiva y seguridad aplicada al desarrollo.
 
----
-
 ## 🎓 Formación
 
 ### Desarrollo de Aplicaciones Web — DAW
@@ -117,8 +105,6 @@ Formación en **montaje y mantenimiento de equipos, redes, sistemas operativos y
 **Certificado de Profesionalidad Nivel 3 · 420 horas + prácticas**
 
 Formación en **seguridad de equipos y sistemas, auditoría de redes y sistemas, gestión de incidentes y configuración de accesos y comunicaciones seguras**.
-
----
 
 ## 📫 Contacto
 
