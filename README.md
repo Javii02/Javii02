@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 Sobre mí
 
 * 💻 **Full Stack Developer** con especial interés en Java y Spring Boot.
