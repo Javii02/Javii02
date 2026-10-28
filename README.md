@@ -4,10 +4,6 @@
 
 ### 💻 Full Stack Developer · Java · Spring Boot · Vue 3 · TypeScript
 
-Desarrollador Full Stack con especial interés en el desarrollo **backend con Java y Spring Boot**, y experiencia profesional trabajando con **Vue 3, TypeScript y SCSS** en aplicaciones empresariales.
-
-Actualmente continúo profundizando en **arquitectura de aplicaciones web, desarrollo seguro, Linux y redes**, con el objetivo de construir aplicaciones robustas, mantenibles y seguras.
-
 <p>
   <a href="https://jrubio-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
